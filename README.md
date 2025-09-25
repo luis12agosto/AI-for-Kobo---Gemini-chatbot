@@ -39,7 +39,7 @@ Follow these steps to install and configure the chatbot on your Kobo.
 
 ### Step 1: Download the File
 
-Download the `chatbot-kobo-en.html` file from this repository.
+Download the `GemChatbot.html` file from this repository.
 
 ### Step 2: Get Your Google Gemini API Key
 
