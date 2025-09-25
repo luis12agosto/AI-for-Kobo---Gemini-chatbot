@@ -2,7 +2,9 @@
 
 Unlock the power of Google's Gemini AI directly on your Kobo e-reader. This project provides a lightweight, E Ink-friendly chatbot for brainstorming and getting answers on the go, no tablet or phone required.
 
-<!-- Replace with a real screenshot -->
+<img width="403" height="537" alt="image" src="https://github.com/user-attachments/assets/f307b715-ed1a-404e-b471-eec2fac424f5" />
+<img width="403" height="537" alt="image" src="https://github.com/user-attachments/assets/522fdf5e-16a8-466c-b834-6a8fd7e14649" />
+
 
 ## ✨ Features
 
@@ -68,7 +70,7 @@ This is the most important step. The API key is your personal, free key to use G
 ### Step 4: Transfer and Run on Your Kobo
 
 1.  Connect your Kobo to your computer with the USB cable.
-2.  Drag your modified `chatbot-kobo-en.html` file to the root memory of your Kobo.
+2.  Drag your modified `GemChatbotl` file to the root memory of your Kobo.
 3.  Safely eject the device.
 4.  On your Kobo, go to **Settings -> Beta features -> Web browser**.
 5.  In the address bar, type the local file path and press **Go**:
@@ -79,4 +81,4 @@ That's it! The chatbot will load, and you can start using it.
 
 ## ⚠️ Security Warning
 
-**NEVER share your `chatbot-kobo-en.html` file with anyone after adding your API key.** Your key is secret and provides access to Google services in your name.
+**NEVER share your `GemChatbot.html` file with anyone after adding your API key.** Your key is secret and provides access to Google services in your name.
